@@ -1,1 +1,1 @@
-fastcgi -f /path/SFTP-File-Transfer-Script.php
+0 0 * * * fastcgi -f /path/SFTP-File-Transfer-Script.php
