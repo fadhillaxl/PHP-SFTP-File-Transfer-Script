@@ -1,0 +1,1 @@
+fastcgi -f /path/SFTP-File-Transfer-Script.php
